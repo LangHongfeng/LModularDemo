@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "LModluarDemo"
+  s.name         = "LModluarApp"
   s.version      = "0.0.1"
   s.ios.deployment_target = '8.0'
   s.summary      = "简介"
